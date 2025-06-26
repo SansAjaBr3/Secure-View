@@ -57,3 +57,15 @@ If the folder doesn't exist, SecureView will automatically create it.
 
 - Qt 6.9.1 or compatible version
 - C++17 compiler (e.g., MinGW 64-bit)
+
+## 🧠 How It Works
+
+It uses a simple XOR-based encryption. The encrypted text is Base64-encoded for safe storage and transfer.
+
+## ⚠️ Warning
+
+This is for educational/demo purposes only. XOR encryption is not secure for production use.
+
+---
+
+© 2025 SansAjaBr3 – feel free to fork, learn, or improve this!
